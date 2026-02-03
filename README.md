@@ -27,3 +27,11 @@ docker-compose up -d
 Open the browser and go to `http://localhost:8084/`
 
 If the page is displayed, enter your URL in the ESET settings
+
+## Donate
+
+Card #1: `9112380173718869`
+Card #2: `9112380130023411`
+Card #3: `4255190193097576`
+
+YooMoney: `4100119341632404`
